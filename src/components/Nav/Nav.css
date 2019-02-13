@@ -1,0 +1,23 @@
+.Nav {
+    height: auto;
+    width: 100vw;
+    display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+    align-items: center;
+    background-color: rgba(234, 224, 206, 0.75);
+}
+
+.nav-item {
+    text-decoration: none;
+    color: #492840;
+}
+
+.nav-item:hover {
+    color: #e6be4a;
+}
+
+.logo {
+    height: 75px;
+    padding-top: 2px;
+}
